@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sakil Mahamud</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Alvee Hossain Ayan </h1>
+        <p>Web Developer | Designer | Content Creator</p>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am a web developer with a passion for creating stunning websites. I love to work with modern web technologies like HTML, CSS, JavaScript, and React.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description of your first project.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Description of your second project.</p>
+        </div>
+    </section>
+    <footer>
+        <p>Contact me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </footer>
+</body>
+</html>
